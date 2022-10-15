@@ -1,5 +1,5 @@
 
-public class ParametrosInvalidosException extends Throwable {
+public class ParametrosInvalidosException extends Exception {
 
     
 }
